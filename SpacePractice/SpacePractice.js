@@ -1,7 +1,4 @@
-//Assignment #7 Spaceship follows lissajous curves, the Spaceship shoots a beam when the mouse clicks
-//Sun and Planet change colors
-//The functions Flight and Orbit contain the sin() and cos() for the curve
-//The functions Sun and Orbit contain the sin() and cos() that change the color 
+
 const Y_AXIS = 1;
 const X_AXIS = 2;
 let SpaceBlu, SpaceBlk;
